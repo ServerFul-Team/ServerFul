@@ -4,6 +4,10 @@
 
 Welcome to the Serverful Project! In this project, we will set up a VPS management system using a combination of tools and custom configurations to provide users with efficient server management capabilities.
 
+Our Project is A Open-Sourse project That you can **Make Money** just run it in server And you Good to Go
+
+Our Project is Under MIT License So Please don't break it
+
 [Discord](https://discord.gg/ndeb9peuU8)
 
 ## Components
