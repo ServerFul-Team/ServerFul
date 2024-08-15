@@ -4,6 +4,8 @@
 
 Welcome to the Serverful Project! In this project, we will set up a VPS management system using a combination of tools and custom configurations to provide users with efficient server management capabilities.
 
+[Discord](https://discord.gg/ndeb9peuU8)
+
 ## Components
 
 ### Pterodactyl Panel
