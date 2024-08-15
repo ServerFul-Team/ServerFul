@@ -22,11 +22,19 @@ For the backend infrastructure, we will deploy [Pterodactyl Wings](https://githu
 
 ### Custom Egg
 
-We will incorporate a [Custom Egg](https://github.com/ysdragon/Pterodactyl-VPS-Egg) developed by [DraGoN](https://github.com/ysdragon) and [_David_](https://github.com/davidpr0811). This custom configuration will enhance the VPS management according to our project needs.
+We will incorporate a [Custom Egg](https://github.com/ysdragon/Pterodactyl-VPS-Egg) developed by [DraGoN](https://github.com/ysdragon) and [_David_](https://github.com/davidpr0811). This custom egg is For Run The OS and you can Check Out what OS This Egg Support
 
 ### Optional Module: Heliactyl
 
 An optional module, [Heliactyl](https://github.com/OpenHeliactyl/Heliactyl), can be integrated to extend the functionalities of the Pterodactyl panel, providing additional features for managing VPS resources.
+
+## Where Is The Parts Of Project That You Work On?
+
+[Webside](https://github.com/ServerFul-Team/Webside)
+
+[API](https://github.com/ServerFul-Team/API)
+
+[PteroAPI](https://github.com/ServerFul-Team/PteroAPI)
 
 ## Milestones
 
